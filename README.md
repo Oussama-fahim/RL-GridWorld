@@ -3,8 +3,6 @@
 <div align="center">
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Gymnasium](https://img.shields.io/badge/gymnasium-compatible-orange)
 
 *A comprehensive implementation of classic and advanced reinforcement learning algorithms in a customizable grid world environment*
 
