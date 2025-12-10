@@ -82,15 +82,15 @@ reinforcement-learning-gridworld/
 ├── 📊 performance_comparison.py      # Algorithm comparison utilities
 ├── 🎨 visualization_utils.py         # Enhanced visualization tools
 ├── ⚙️ config.py                      # Configuration management
+├── ⚙️ logger.py                      
 ├── 📝 requirements.txt               # Python dependencies
+├── 📝 Makefile               
 ├── 🧪 tests/                         # Unit and integration tests
 │   ├── test_environment.py
 │   ├── test_algorithms.py
 │   └── test_integration.py
-├── 📖 docs/                          # Additional documentation
-│   ├── algorithms.md
-│   ├── api_reference.md
-│   └── tutorials.md
+├── 🧪 examples/                         # Unit and integration tests
+│   ├── advanced_usage.py
 ├── 💾 saved_models/                  # Trained model checkpoints
 ├── 📈 results/                       # Experiment results and plots
 └── 📋 README.md                      # This file
