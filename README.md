@@ -4,6 +4,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Gymnasium](https://img.shields.io/badge/gymnasium-compatible-orange)
+
 *A comprehensive implementation of classic and advanced reinforcement learning algorithms in a customizable grid world environment*
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Algorithms](#-algorithms) • [Documentation](#-documentation) • [Examples](#-examples)
