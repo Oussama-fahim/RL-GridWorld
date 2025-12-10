@@ -73,27 +73,37 @@ This project provides a **fully-featured grid world environment** built on Gymna
 ```
 reinforcement-learning-gridworld/
 │
-├── 📄 grid_env.py                    # Base GridWorld environment
-├── 🤖 value_agent.py                 # Value Iteration implementation
-├── 🤖 policy_iteration.py            # Policy Iteration implementation
-├── 🎲 random_agent.py                # Random policy baseline
-├── 🧠 q_learning_moving_goal.py      # Q-Learning with moving goals
-├── 🎯 q_learning_dynamic_goal.py     # Q-Learning with dynamic goals
-├── 📊 performance_comparison.py      # Algorithm comparison utilities
-├── 🎨 visualization_utils.py         # Enhanced visualization tools
-├── ⚙️ config.py                      # Configuration management
-├── ⚙️ logger.py                      
-├── 📝 requirements.txt               # Python dependencies
-├── 📝 Makefile               
-├── 🧪 tests/                         # Unit and integration tests
-│   ├── test_environment.py
-│   ├── test_algorithms.py
-│   └── test_integration.py
-├── 🧪 examples/                         # Unit and integration tests
-│   ├── advanced_usage.py
-├── 💾 saved_models/                  # Trained model checkpoints
-├── 📈 results/                       # Experiment results and plots
-└── 📋 README.md                      # This file
+├── 📦 gridworld/                            # Main package
+│   │
+│   ├── 🌍 grid_env.py                        # Core GridWorld environment
+│   ├── 🤖 value_agent.py                     # Value Iteration agent
+│   ├── 🤖 policy_iteration.py                # Policy Iteration agent
+│   ├── 🎲 random_agent.py                    # Random agent (baseline)
+│   ├── 🧠 q_learning_moving_goal.py          # Q-Learning with moving goal positions
+│   ├── 🧠 q_learning_dynamic_goal.py         # Q-Learning with dynamic (changing) goals
+│   │
+│   ├── 🎨 visualization_utils.py             # Plotting and environment visualization tools
+│   ├── ⚙️ config.py                          # Centralized configuration parameters
+│   ├── 📝 logger.py                          # Lightweight experiment logger
+│   │
+│   ├── 💾 saved_models/                      # Trained models & checkpoints
+│   └── 📊 results/                           # Experiment outputs, logs & plots
+│
+├── 🧪 tests/                                  # Unit & integration tests
+│   ├── testingguid.md                        # Testing guidelines
+│   ├── test_environment.py                   # Environment tests
+│   ├── test_algorithms.py                    # Algorithm correctness tests
+│   └── test_integration.py                   # Full pipeline tests
+│
+├── 🧪 examples/                               # Example scripts & demos
+│   └── advanced_usage.py                     # Advanced experiment configurations
+│
+├── 📊 performance_comparison.py              # Utilities for comparing algorithms
+│
+├── 🧰 Makefile                               # Automation (train, test, clean…)
+├── 📄 requirements.txt                        # Python dependencies
+└── 📋 README.md                               # Project documentation
+
 ```
 
 ---
