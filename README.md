@@ -29,7 +29,6 @@
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
 - [References](#-references)
-- [License](#-license)
 
 ---
 
@@ -643,28 +642,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 RL GridWorld Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
-
 ## 🎓 Educational Use
 
 This project is designed for:
@@ -686,10 +663,8 @@ This project is designed for:
 
 ## 📞 Contact & Support
 
-- 📧 Email: support@rlgridworld.com
-- 💬 Discord: [Join our community](https://discord.gg/rlgridworld)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/rl-gridworld/issues)
-- 📖 Wiki: [Project Wiki](https://github.com/yourusername/rl-gridworld/wiki)
+- 📧 Email: Oussamafahim2017@gmail.com
+- 📖 phone: +212645468306
 
 ---
 
@@ -697,8 +672,6 @@ This project is designed for:
 
 **⭐ If you find this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by the RL Community
-
-[⬆ Back to Top](#-reinforcement-learning-grid-world-environment)
+Made with ❤️ by oussama fahim , thanks to Mr tawfik masrour
 
 </div>
