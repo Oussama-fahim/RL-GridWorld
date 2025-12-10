@@ -109,7 +109,7 @@ reinforcement-learning-gridworld/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rl-gridworld.git
+git clone https://github.com/Oussama-fahim/RL-GridWorld.git
 cd rl-gridworld
 ```
 
